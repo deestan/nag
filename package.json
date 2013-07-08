@@ -8,7 +8,7 @@
   },
   "repository": "https://github.com/deestan/nag",
   "author": "helge.holm@gmail.com",
-  "license": "BSD",
+  "license": "MIT",
   "devDependencies": {
     "mocha": "~1.12.0",
     "randy": "~1.4.2"
