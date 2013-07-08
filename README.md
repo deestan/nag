@@ -1,4 +1,4 @@
-# nag.js
+# Nag
 
 Nag is a small utility to handle automatic retries of an asynchronous operation.
 
